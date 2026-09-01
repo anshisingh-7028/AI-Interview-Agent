@@ -109,7 +109,7 @@ AI-Interview-Agent/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone ...
 ```
 
 ### 2. Install frontend dependencies
@@ -130,13 +130,6 @@ npm install
 
 Create `.env` files for the frontend and backend.
 
-Example:
-
-```env
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-FRONTEND_URL=your_frontend_url
-```
 
 Never commit your real `.env` file.
 
